@@ -1,2 +1,7 @@
-# open_source_final_term_project
-open_source_final_term_project
+# Final-term Project
+# 自動跟車系統
+team:
+110590028
+110590034
+110590035
+110590048
