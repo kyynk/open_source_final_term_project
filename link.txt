@@ -1,0 +1,4 @@
+repo
+https://github.com/kyynk/open_source_final_term_project
+demo
+https://youtu.be/K3sg3x7Sc48?si=B5fBvf0u1ZVtLvPl
